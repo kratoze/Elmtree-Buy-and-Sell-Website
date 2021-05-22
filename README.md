@@ -8,4 +8,4 @@ A website that allows a user to create a buyer or seller account, post product
 listings, edit product and account details, rate sellers, sort products by category and
 location.
 
-Uses HTML, CSS, Javascript and PHP. Styled with SemanticUI CSS library.
+Uses PHP, SQL, HTML, CSS and Javascript. Styled with SemanticUI CSS library.
